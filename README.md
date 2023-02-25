@@ -114,6 +114,7 @@ $ git push
 
 ### Submit your Pull Request (PR)🚀
 
-- After your changes are commited to your GitHub fork, submit a pull request (PR) to the `develop` branch of the `reactdeveloperske/reactdevske-website` repo
+- After your changes are commited to your GitHub fork, submit a pull request (PR) to the `develop` branch of the `Luna-Hacks-2-0/e-citizen-lh` repo
 - In your PR description, reference the issue it resolves (see [linking a pull request to an issue using a keyword](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword))
+- For features commit with the following nameing convention `feature\[name of feature]`
   - ex. `Updates out of date content [Fixes #1234]`
