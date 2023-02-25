@@ -5,12 +5,12 @@
 
 ### Submit an issue
 
-- Create a [new issue](https://github.com/reactdeveloperske/reactdevske-website/issues)
+- Create a [new issue](https://github.com/Luna-Hacks-2-0/e-citizen-lh/issues)
 - Comment on the issue (if you'd like to be assigned to it) - that way the issue can be assigned to you.
 
 ### Open issues
 
-- Go to [open issues](https://github.com/reactdeveloperske/reactdevske-website/issues)
+- Go to [open issues](https://github.com/Luna-Hacks-2-0/e-citizen-lh/issues)
 - select an issue of your choice that is `open` or `need help` or is `up-for-grabs` and is not assigned.
 - Comment on the issue (if you'd like to be assigned to it) - that way the issue can be assigned to you.
 
@@ -34,7 +34,7 @@ If you're ready to contribute and create your PR, it will help to set up a local
 If this is your first time forking our repo, this is all you need to do for this step:
 
 ```
-$ git clone git@github.com:[your_github_handle]/reactdevske-website.git && cd reactdevske-website
+$ git clone git@github.com:[your_github_handle]/e-citizen-lh.git && cd e-citizen-lh
 ```
 
 Make sure you checkout the `develop` branch `git checkout develop`
@@ -44,7 +44,7 @@ If you've already forked the repo, you'll want to ensure your fork is configured
 To [configure your fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork):
 
 ```
-$ git remote add upstream https://github.com/reactdeveloperske/reactdevske-website.git
+$ git remote add upstream https://github.com/Luna-Hacks-2-0/e-citizen-lh.git
 ```
 
 To [sync your fork with the latest changes](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork):
